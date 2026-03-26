@@ -6,7 +6,7 @@ import { IMAGES, WHATSAPP_NUMBER } from "../constants";
 const ROOMS = [
   {
     name: "Deluxe Non Balcony",
-    price: "₹3,000",
+    price: "₹4,000",
     badge: "Best Value",
     description: "Elegantly designed room with premium wooden interiors and rich gold accents. Perfect for couples and solo travellers seeking comfort in the hills.",
     amenities: ["Free WiFi", "Smart TV", "24/7 Hot Water", "Mountain View"],
@@ -21,7 +21,7 @@ const ROOMS = [
   },
   {
     name: "Deluxe Balcony",
-    price: "₹3,500",
+    price: "₹4,500",
     badge: "Most Popular",
     description: "Stunning room with private balcony offering panoramic Mussoorie valley views. Wake up above the clouds with dramatic mirror panels and premium décor.",
     amenities: ["Free WiFi", "Smart TV", "Private Balcony", "Panoramic Valley View"],
